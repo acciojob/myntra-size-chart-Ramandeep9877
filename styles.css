@@ -1,1 +1,42 @@
+.border{
+    border:1px solid black;
+	border-collapse: collapse;
+}
 
+td,th{
+	border:1px solid black;
+}
+
+.side{
+	padding-left:60px;
+}
+
+.right{
+	text-align:left;
+}
+
+.rigt{
+	text-align:left;
+}
+
+.rt{
+	padding-right:60px;
+}
+
+.clrrr{
+	background-color:#c0504d;
+	color:#f8eaea;
+}
+
+.clrr{
+	background-color:#da9694;
+	color:#f8eaea;
+}
+
+.clr{
+	background-color:#f2dcdb;
+}
+
+
+.cl{
+    background-color:#d9d9d9;
